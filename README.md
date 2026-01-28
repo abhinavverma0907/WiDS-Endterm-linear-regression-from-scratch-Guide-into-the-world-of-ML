@@ -41,3 +41,6 @@ python src/train.py
 
 ## About Author
 Abhinav Verma
+Btech 2029'
+Computer Science and Engineering
+IIT BOMBAY 
